@@ -1,0 +1,99 @@
+<HTML>
+<HEAD>
+<TITLE>SASI Institute of Technology</TITLE>
+</HEAD>
+<BODY>
+<BODY BGCOLOR=“#FFFFFF”></BODY> <FONT COLOR=“#RRGGBB”>
+<CENTER><B>SASI Institute of Technology & Engineering</B>    </FONT></CENTER><br>
+
+<CENTER>Department of Information Technology</CENTER><br>
+<marquee> Goldbell </marquee>
+<hr>
+<!--<BODY BGCOLOR=“#FFFFFF” TEXT=“#FF0000”></BODY>
+<BODY BGCOLOR=“#FFFFFF” TEXT=“#FF0000” LINK=“#0000FF”
+      VLINK=“#FF00FF” 
+     ALINK=“FFFF00”> </BODY>
+BODY BACKGROUND=“hi.gif” BGCOLOR=“#FFFFFF”></BODY> --!>
+<H1> Automata Theory & Compiler Design  </H1>
+<H2> Computer Networks </H2>
+<H3> Datamining & Data ware Housing  </H3>
+<H4> Advanced Java</H4>
+<H5> Advanced Operation Research  </H5>
+<H6> Computer Networks Lab </H6>
+
+<P> Paragraph 1, ….</P>
+a. Write a HTML program to explain the working of lists<BR>	
+<HR> b. Write a HTML program for hyperlinks using <a>, href, target. </HR>.
+
+
+<FONT SIZE=“+2”> Two sizes bigger</FONT>
+The size attribute can be set as an absolute value from 1 to 7 or as a relative value using the “+” or “-” sign. Normal text size is 3 (from -2 to +4).
+<B> Bold </B>         
+ <I> Italic </I>
+<U> Underline </U>
+
+
+<FONT COLOR=“#RRGGBB”> This is example of Font color</FONT>
+<PRE> Preformatted </PRE> Text enclosed by PRE tags is displayed in a mono-spaced font. Spaces and line breaks are supported without additional elements or special characters.
+
+
+<EM> Emphasis </EM> Browsers usually display this as italics.
+<STRONG> STRONG </STRONG> Browsers display this as bold.
+<TT> TELETYPE </TT> Text is displayed in a mono-spaced font. A typewriter text, e.g. fixed-width font. 
+<CITE> Citation </CITE> represents a document citation (italics). 
+
+
+
+<P> <FONT SIZE=“+1”> One Size Larger </FONT> - Normal –
+<FONT SIZE=“-1”> One Size Smaller </FONT> <BR>
+<B> Bold</B> - <I> italics</I> - <U> Underlined </U> -
+<FONT COLOR=“#FF0000”> Colored </FONT> <BR>
+<EM> Emphasized</EM> - <STRONG> Strong </STRONG> - <TT> Tele Type </TT> <BR>
+
+<LEFT></LEFT> Will center elements.
+<CENTER></CENTER> Will center elements.
+<RIGHT></RIGHT> Will center elements.
+
+<DIV ALIGN=“value”></DIV> Represents a division in the document and can contain most other element type. The alignment attribute of the DIV element is well supported.
+<TABLE></TABLE> Inside a TABLE, alignment can be set for each individual cell.
+
+<P> Special Characters & Symbols </P>
+
+&amp;      ampersand & 
+&lt;           less than sign < 
+&gt;          greater than sign > 
+&quot;     the double quote sign " 
+
+&ndash;       en dash (half the width of an em unit) 
+&mdash;     em dash (equal to width of an "m" character) 
+&ensp;        en space 
+&emsp;      em space 
+&nbsp;       non breaking space 
+&shy;         soft hyphen (normally invisible) 
+&copy;      copyright sign 
+&trade;     trade mark sign 
+&reg;        registered sign 
+
+<br>
+
+<math>
+	C <box>dV<sub>out</sub><over>dt</box> = I<sub>b</sub><br>
+
+	&tanh;(<box>κ(V<sub>in</sub>-V<sub>out</sub>)<over>2</box>)<br>
+
+</math>
+<br>
+<a href="URL">https://www.w3.org/MarkUp/HTMLPlus/htmlplus_30.html</a>
+<br>
+<hr>
+
+<b><A HREF="https://sasi.ac.in/"> Click Here </A> </b>
+
+
+<hr>
+
+
+
+
+</BODY>
+</HTML>
